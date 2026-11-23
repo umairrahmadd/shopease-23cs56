@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ShopEase</string>
+    <string name="tagline">Shop smart, shop easy</string>
+    <string name="err_name">Please enter your name</string>
+    <string name="err_email">Enter a valid email address</string>
+    <string name="err_password">Password must be at least 6 characters</string>
+    <string name="err_match">Passwords do not match</string>
+    <string name="err_login_failed">Sign in failed. Please try again.</string>
+    <string name="reset_email_sent">Password reset email sent</string>
+    <string name="err_reset_failed">Unable to send password reset email</string>
 </resources>
