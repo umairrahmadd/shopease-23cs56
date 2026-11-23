@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949163020923",
+    "project_id": "shopease-23cs56-77395",
+    "storage_bucket": "shopease-23cs56-77395.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949163020923:android:e85a5094b69ed9ad5048de",
+        "android_client_info": {
+          "package_name": "pk.edu.nfciet.shopease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoMWpNiN9zSx33X5bh5lSREerrAX4PnC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
