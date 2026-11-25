@@ -8,4 +8,6 @@
     <string name="err_login_failed">Sign in failed. Please try again.</string>
     <string name="reset_email_sent">Password reset email sent</string>
     <string name="err_reset_failed">Unable to send password reset email</string>
+    <string name="action_cart">Cart</string>
+    <string name="action_logout">Log out</string>
 </resources>
