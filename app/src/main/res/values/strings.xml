@@ -17,4 +17,9 @@
     <string name="default_quantity_value">1</string>
     <string name="increase_quantity_text">+</string>
     <string name="add_to_cart">Add to Cart</string>
+
+    <string name="my_cart">My Cart</string>
+    <string name="cart_empty">Your cart is empty</string>
+    <string name="checkout">Checkout</string>
+    <string name="remove_item">Remove</string>
 </resources>
