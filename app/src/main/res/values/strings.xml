@@ -22,4 +22,29 @@
     <string name="cart_empty">Your cart is empty</string>
     <string name="checkout">Checkout</string>
     <string name="remove_item">Remove</string>
+
+    <string name="checkout_title">Checkout</string>
+    <string name="delivery_details">Delivery Details</string>
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_address">Street Address</string>
+    <string name="hint_city">City</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="summary_items_zero">Items: 0</string>
+    <string name="summary_subtotal_zero">Subtotal: Rs 0</string>
+    <string name="summary_delivery_free">Delivery: Free</string>
+    <string name="summary_total_zero">Total: Rs 0</string>
+    <string name="place_order">Place Order</string>
+    <string name="summary_items_fmt">Items: %1$d</string>
+    <string name="summary_subtotal_fmt">Subtotal: Rs %1$d</string>
+    <string name="summary_delivery_fmt">Delivery: Rs %1$d</string>
+    <string name="summary_total_fmt">Total: Rs %1$d</string>
+
+    <string name="err_full_name_required">Full name is required</string>
+    <string name="err_phone_required">Valid phone number is required</string>
+    <string name="err_address_required">Street address is required</string>
+    <string name="err_city_required">City is required</string>
+    <string name="err_load_cart">Failed to load cart summary</string>
+    <string name="order_placed_fmt">Order placed! ID: %1$s</string>
+    <string name="err_place_order">Failed to place order. Try again.</string>
 </resources>
